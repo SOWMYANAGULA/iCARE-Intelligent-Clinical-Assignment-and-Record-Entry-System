@@ -1,0 +1,30 @@
+body {
+    background-image: url("../images/landing-bg.jpg");
+	background-size: cover;
+}
+
+.main {
+    margin-top: 5%;
+    margin-left: 10%;
+    color: #fff;
+    width: 30%;
+}
+
+.btn-custom {
+    width: 15em;
+    background-color: #3399ff;
+    text-align: left;
+    margin-bottom: 1em;
+    color: #fff !important;
+    font-size: large;
+    padding: 0.85em;
+    letter-spacing: 5px;
+    font-weight: bolder;
+    text-transform: uppercase;
+}
+
+.i-custom {
+    margin-right: 1.8em;
+    scale: 2;
+    margin-left: 1em;
+}
